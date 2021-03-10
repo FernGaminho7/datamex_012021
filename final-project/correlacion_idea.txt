@@ -1,0 +1,30 @@
+sería crear un df con columnas como fecha, tweets positivos (conteo), tweets negativos (conteo) y precio del bitcoin
+white_check_mark
+eyes
+raised_hands::skin-tone-3
+
+
+
+
+
+15:50
+la fecha es solo para dividir tus datos
+15:50
+en train y test
+New
+15:50
+las X serían tweets positivos y negativos
+15:50
+y tu Y sería el precio del bitcoin
+15:50
+se crea el modelo
+15:50
+y vemos si hay un r2 alta o no
+15:51
+lo que significaría que existe una relación
+15:51
+por que la r2 es el porcentaje de la varianza de la Y explicada por tu modelo
+15:51
+si me di a entender?
+15:51
+jejeje
